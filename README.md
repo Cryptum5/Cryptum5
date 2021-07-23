@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Cryptum5
-- 👀 I’m interested in: Java, Roblox Development.
-- 🌱 I’m currently learning Java Development, mostly Roblox Lua when the time is right.
+- 👀 I’m interested/working in: Java and C#.
+- 🌱 I’m currently learning Java for my 3d Engines and C# for desktop applications and Unity projects
 - 📫 How to reach me: Send me an e-mail to ColdaryProd@gmail.com, i will answer asap.
